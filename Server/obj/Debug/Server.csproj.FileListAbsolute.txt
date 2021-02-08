@@ -1,0 +1,6 @@
+C:\Users\cvass\source\repos\PlayerJob\Server\bin\Debug\Server.net.dll
+C:\Users\cvass\source\repos\PlayerJob\Server\bin\Debug\Server.net.pdb
+C:\Users\cvass\source\repos\PlayerJob\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\cvass\source\repos\PlayerJob\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\cvass\source\repos\PlayerJob\Server\obj\Debug\Server.net.dll
+C:\Users\cvass\source\repos\PlayerJob\Server\obj\Debug\Server.net.pdb
